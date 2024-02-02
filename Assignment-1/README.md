@@ -1,0 +1,2 @@
+References: https://towardsdatascience.com/an-explanation-of-bias-variance-trade-offs-for-regression-using-empirical-testing-d6935140139f
+Code for bias and variance with respect to degree of polynomial and sampled dataset size.
